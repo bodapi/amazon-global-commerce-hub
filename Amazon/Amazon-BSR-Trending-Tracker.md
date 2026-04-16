@@ -29,7 +29,7 @@ In the hyper-competitive Amazon marketplace, speed is everything. Our Trending A
 For API access, custom Amazon datasets, or large-scale enterprise solutions:
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
 * **WeChat (微信):** daniellehallasgo
-* **Telegram:** [@bodapi_dan]
+* **Telegram:** @bodapi_dan
 * **Email:** danielle@bodapi.com
 
 ---

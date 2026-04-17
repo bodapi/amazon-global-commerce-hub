@@ -14,7 +14,7 @@ Extract and analyze the "Voice of the Customer" to drive product innovation and 
 ## 📞 Business Inquiry
 * **Official Website:** [https://bodapi.com](https://bodapi.com)
 * **WeChat (微信):** daniellehallasgo
-* **Telegram:** [@bodapi_dan]
+* **Telegram:** @bodapi_dan
 * **Email:** support@bodapi.com
 
 ---

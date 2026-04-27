@@ -36,3 +36,14 @@ Engineered for data scientists and marketing teams looking to automate sentiment
 }
 ```
 
+---
+
+## 📞 Business Inquiry
+For API access, custom Amazon datasets, or large-scale enterprise solutions:
+* **Official Website:** [https://bodapi.com](https://bodapi.com)
+* **WeChat (微信):** daniellehallasgo
+* **Telegram:** @bodapi_dan
+* **Email:** danielle@bodapi.com
+
+---
+*Maintained by Bodapi - 2026 Analytics & Data Intelligence Team*
